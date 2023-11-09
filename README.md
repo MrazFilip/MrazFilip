@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/filipmrz11" target="blank"><img src="https://img.shields.io/twitter/follow/filipmrz11?logo=twitter&style=for-the-badge" alt="filipmrz11" /></a> </p>
 
-- 🔭 I’m currently working on **my own projects**
+- 🔭 I’m currently working on **maintaining API enpoints, metric system and analytics in C#, Microsoft NAV and PHP**
 
-- 🌱 I’m currently learning **C#, .NET, JS, HTML, CSS, Python**
+- 🌱 I’m currently learning **Microsoft NAV**
 
 - 👨‍💻 All of my projects are available at [mrazfilip.com](mrazfilip.com)
 
