@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/filipmrz11" target="blank"><img src="https://img.shields.io/twitter/follow/filipmrz11?logo=twitter&style=for-the-badge" alt="filipmrz11" /></a> </p>
 
-- 🔭 I’m currently working on **maintaining API enpoints, metric system and analytics system using C#, Microsoft NAV and many more technologies.**
+- 🔭 I’m currently working on **maintaining API endpoints, metric system and analytics system using C#, Microsoft NAV and many more technologies.**
 
 - 🌱 I’m currently learning **Blazor**
 
