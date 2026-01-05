@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Blazor**
 
-- 👨‍💻 All of my projects are available at [mrazfilip.com](mrazfilip.com)
+- 👨‍💻 All of my projects are available at [my website](https://mrazfilip.github.io/Mraz-Personal-Web/)
 
 - 📫 How to reach me **filda.mraz@volny.cz**
 
-- 📄 Know about my experiences [mrazfilip.com](mrazfilip.com)
+- 📄 Know about my experiences [my website](https://mrazfilip.github.io/Mraz-Personal-Web/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
